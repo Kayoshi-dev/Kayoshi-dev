@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 👨‍💻 I'm a French student in programming school and project management.
+
+- 🇯🇵 I'd love to work in Japan 
+
+- 🎵 Listening to ZUTOMAYO
+
+Please if you have any opportunities to work in Japan feel free to hit me on Twitter [(@fsm_dev)](https://twitter.com/fsm_dev)
+
+
 <!--
 **Kayoshi-dev/Kayoshi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
